@@ -1,0 +1,13 @@
+body {background-color: black;}
+.breeze {border: 5px solid white;
+            width: 100%;}
+.post {
+        width: 50%;
+        text-align: center;
+        color: white;
+        margin-left: 25%;
+        margin-top: 100px;
+        font-family: "Libre Baskerville", serif;
+}
+h1 {text-transform: uppercase;
+    font-size: 3rem;}
